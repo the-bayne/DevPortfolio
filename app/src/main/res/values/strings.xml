@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Dev Portfolio</string>
     <string name="myName">Jared Bayne Thibodeaux</string>
+    <string name="about_me">My name is Jared Thibodeaux.  "\n"My love for programming was kickstarted with discovery of my all time favorite game - EverQuest."\n"I enjoy mobile development and have been over iOS and Android mobile teams for the last 3 years.  Although I have also done Windows based applications, I wouldn\'t want to leave mobile development.</string>
+    <string name="skills">* Java"\n"* Kotlin"\n"* Objective C"\n"* Swift"\n"* SQL"\n"* UI/UX</string>
+    <string name="contact">Mail: notARealEmail@gmail.com</string>
+    <string name="work">Will update when I push more projects to GitHub</string>
 </resources>
